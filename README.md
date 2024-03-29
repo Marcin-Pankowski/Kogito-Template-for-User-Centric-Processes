@@ -1,4 +1,4 @@
-# Kogito Template for Microservices 
+# Kogito Template for User Centric Processes
 
 This template showcases how easy it is to develop a cloud-native service with Kogito. It allows us to leverage our BPMN expertise within the context of service tasks. Finally, upon achieving operational status, the service is well-documented because the process itself serves as the documentation.
 
@@ -20,7 +20,7 @@ To experiment with the processes, please use Visual Studio Code and load the Kog
 
 1. Pull this repository with VSC.
 2. Start the Service : mvn clean install quarkus:dev or mvn clean install quarkus:test.
-3. Modify ComplexServiceExample.bpmn and ServiceExample.java.
+3. Modify the BPMN's.
 4. Modify Tests. 
 
 
